@@ -1,5 +1,3 @@
-HELLO WORLD!!!
-HELLO SERVER!!!
-HELLO MIRDY!!!
-123456789
-Hello_HELLO!
+About Us
+
+We are a growing legal services company operating across the United States. We use modern cloud-based tools to manage client communications and internal operations. We are looking for a reliable technical specialist to support and maintain our core systems on an ongoing basis.
