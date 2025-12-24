@@ -19,7 +19,7 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.SSH_KEY }}
-          script: |
-	          cd /home/debian/test-deploy
+          script:
+            cd /home/debian/test-deploy
             git pull origin main
             docker compose up -d --build
