@@ -1,6 +1,6 @@
 name: Deploy to Server
 
-# Запускать процесс только при пуше в ветку main
+# Запускать процесс только при пуше в ветку master
 on:
   push:
     branches:
