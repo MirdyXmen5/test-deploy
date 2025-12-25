@@ -17,6 +17,6 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           script: |
             cd /home/debian/test-deploy
-            git pull origin main
+            git pull origin master
             ls -la
             cat test_gitHub-actions.txt
